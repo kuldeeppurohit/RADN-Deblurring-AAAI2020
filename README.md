@@ -1,2 +1,2 @@
 # RADN-Deblurring-AAAI2020
-Results of AAAI2020 "Region-Adaptive Dense Network for Efficient Motion Deblurring"
+Results of the paper "Region-Adaptive Dense Network for Efficient Motion Deblurring" accepted at AAAI 2020
